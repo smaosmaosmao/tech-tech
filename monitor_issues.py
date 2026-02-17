@@ -38,14 +38,14 @@ class CryptoIssueMonitor:
         self.topics = config.get('topics', [])
         
         self.team_assignments = config.get('team_assignments', {
-            'wallet': ['@autumndss'],
-            'security': ['@autumndss'],
-            'bug': ['@autumndss'],
-            'transaction': ['@autumndss'],
-            'contract': ['@autumndss'],
-            'gas-fee': ['@autumndss'],
-            'help': ['@autumndss'],
-            'general': ['@autumndss']
+            'wallet': ['@smaosmaosmao'],
+            'security': ['@smaosmaosmao'],
+            'bug': ['@smaosmaosmao'],
+            'transaction': ['@smaosmaosmao'],
+            'contract': ['@smaosmaosmao'],
+            'gas-fee': ['@smaosmaosmao'],
+            'help': ['@smaosmaosmao'],
+            'general': ['@smaosmaosmao']
         })
     
     def load_processed_issues(self) -> Set[str]:
