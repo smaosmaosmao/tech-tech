@@ -180,13 +180,13 @@
     "nft"
   ],
   "team_assignments": {
-    "wallet": ["@autumndss"],
-    "security": ["@autumndss"],
-    "bug": ["@autumndss"],
-    "transaction": ["@autumndss"],
-    "contract": ["@autumndss"],
-    "gas-fee": ["@autumndss"],
-    "help": ["@autumndss"],
-    "general": ["@autumndss"]
+    "wallet": ["@smaosmaosmao"],
+    "security": ["@smaosmaosmao"],
+    "bug": ["@smaosmaosmao"],
+    "transaction": ["@smaosmaosmao"],
+    "contract": ["@smaosmaosmao"],
+    "gas-fee": ["@smaosmaosmao"],
+    "help": ["@smaosmaosmao"],
+    "general": ["@smaosmaosmao"]
   }
 }
